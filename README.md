@@ -1,0 +1,2 @@
+# Data-visualization-with-python
+Data visualization is defined as a graphical representation that contains information and data. By using visual elements such as charts, graphs, and maps, data visualization techniques provide an accessible way to view and understand trends, outliers, and patterns in the data. Data visualization is how data scientists communicate their findings to stakeholders. Here I visualize data using home sales data.
